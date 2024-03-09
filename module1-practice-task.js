@@ -42,4 +42,4 @@ const squareSum = (array) =>{
 
 const numberOfArray = [2, 4, 5, 6, 8]
 const outputSqureNumber = squareSum(numberOfArray);
-console.log(outputSqureNumber)
+console.log(outputSqureNumber);
