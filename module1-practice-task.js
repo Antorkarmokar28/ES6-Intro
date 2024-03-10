@@ -39,7 +39,6 @@ const squareSum = (array) =>{
     }
     return sum
 }
-
 const numberOfArray = [2, 4, 5, 6, 8]
 const outputSqureNumber = squareSum(numberOfArray);
-console.log(outputSqureNumber);
+console.log(outputSqureNumber)
